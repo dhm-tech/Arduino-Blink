@@ -39,7 +39,7 @@ You can see sum pictures here:
 ![Preview](LEDs-light-off.png)
 ![Preview](LEDs-light-on.png)
 
-## see video
+## 📽️ Explanatory video
 https://github.com/user-attachments/assets/a644ec17-914e-4d46-aeb2-4594483567a6
 
 ---
