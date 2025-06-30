@@ -38,8 +38,9 @@ Basic logic:
 You can see sum pictures here:
 ![Preview](LEDs-light-off.png)
 ![Preview](LEDs-light-on.png)
-https://github.com/user-attachments/assets/186e985c-cb82-49b1-967a-86a202a6038e
 
+## see video
+https://github.com/user-attachments/assets/a644ec17-914e-4d46-aeb2-4594483567a6
 
 ---
 ## 👤 Author
