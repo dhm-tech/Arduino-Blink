@@ -35,7 +35,6 @@ Basic logic:
 4. Press the buttons and watch the LEDs light up!
 
 ## 📸 Project Images
-You can see sum pictures here:
 ![Preview](LEDs-light-off.png)
 ![Preview](LEDs-light-on.png)
 
