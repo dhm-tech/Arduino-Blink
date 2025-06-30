@@ -35,10 +35,11 @@ Basic logic:
 4. Press the buttons and watch the LEDs light up!
 
 ## 📸 Project Images
-
-## 👨‍💻 Author
-Made with ❤️ by Abdulrahman Qutah  
-_(You can remove or replace your name if you prefer)_
+You can see sum pictures here:
+![Preview](LEDs-light-off.jpg)
+![Preview](LEDs-light-on.jpg)
 
 ---
-
+## 👤 Author
+> Designed by: [Abdulrahman Qutah]  
+> Date: [30 June 2025]
