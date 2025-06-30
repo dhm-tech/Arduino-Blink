@@ -36,8 +36,8 @@ Basic logic:
 
 ## 📸 Project Images
 You can see sum pictures here:
-![Preview](LEDs-light-off.jpg)
-![Preview](LEDs-light-on.jpg)
+![Preview](LEDs-light-off.png)
+![Preview](LEDs-light-on.png)
 
 ---
 ## 👤 Author
