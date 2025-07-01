@@ -22,7 +22,7 @@ Learn how to:
 - Each button between ground and a digital pin with a pull-down resistor (10kΩ) to ground.
 
 ## 📄 Arduino Code
-The code is in the file `led_buttons.ino`.
+The code is in the file `sketch_code.ino`.
 
 Basic logic:
 - Read each button state using `digitalRead()`
